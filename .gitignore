@@ -1,0 +1,3 @@
+venv
+python-probe.log
+*.pyc
