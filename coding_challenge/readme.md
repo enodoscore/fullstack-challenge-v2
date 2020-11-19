@@ -30,14 +30,14 @@ We need this detection code to run quickly. That said, please remember that this
 
 First line will contain a integer N denoting the number of records, followed by N lines with one record per line.
 Each record contains the following information separated by commas:
-    • Order id (numeric)
-    • Deal id (numeric)
-    • Email address
-    • Street address
-    • City
-    • State
-    • Zip Code
-    • Credit Card #
+ * Order id (numeric)
+ * Deal id (numeric)
+ * Email address
+ * Street address
+ * City
+ * State
+ * Zip Code
+ * Credit Card #
 
 *Example*
 ```
