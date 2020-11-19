@@ -6,6 +6,7 @@
 - If you finish your solution in less than two hours, try to polish it as much as you can.
 - Solution can be polished in many ways. Just apply your knowledge on coding best practices and project configuration cleaning.
 - Send back your solution in a ZIP-compressed file, ensuring it does NOT contain any binary file, such as .EXE ones.
+- This challenges contain a boilerplate (using Python3 and SQLite3) so you can focus on solving the problems. Feel free to discard it and use your own.
 
 ## Instructions
 - Coding Challenge: [link](coding_challenge/readme.md)
