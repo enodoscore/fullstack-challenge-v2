@@ -5,8 +5,7 @@
 
 ## The Problem
 
-A company maintains two tables, DeptA and DeptB with information about their employees.
-The company wants to know the number of males and the number of females with a particular shirt size.
+A company maintains two tables, DeptA and DeptB, with information about its employees. The company wants to know the number of employees with a particular shirt size and shirt color.
 
 For that the IT department needs to generate the following output:
     1. Shirt Color (shirt_color)
