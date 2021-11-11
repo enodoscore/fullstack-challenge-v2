@@ -14,7 +14,7 @@ A record is flagged as fraudulent if any of the following conditions apply:
 
 Remember, all records have manual inputs. Your code must be able to handle the following:
 
-* Email and addresses (including city and state) are case insensitive: user1@test.com is the same as User1@test.COM and 130 S Jefferson St. is the same as 130 S Jefferson St.
+* Email and addresses (including city and state) are case insensitive: user1@test.com is the same as User1@test.COM and 130 S Jefferson St. is the same as 130 s jefferson st.
 * The username portion of an email address can have ignored characters. A "." in an email is flat out ignored, so user1@test.com, and user.1@test.com are the same email address. A "+" in an email means the plus and everything after is ignored, so user@test.com and user+1@test.com are the same email address.
 * Street addresses often have abbreviated words. 130 S Jefferson St. and 130 S Jefferson Street are the same address. IL and Illinois are the same state. You can assume that the only abbreviated words to consider are the following:
   *  Street/St.
