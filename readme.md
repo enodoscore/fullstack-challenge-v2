@@ -1,8 +1,9 @@
 ## Submission
-- This assessment contains two exercises.
+- This assessment contains three exercises.
   - coding_challenge
   - sql_challenge
-- You have two hours to submit this assessment.
+  - rest_challenge
+- You have four hours to submit this assessment.
 - If you finish your solution in less than two hours, try to polish it as much as you can.
 - Solution can be polished in many ways. Just apply your knowledge on coding best practices and project configuration cleaning.
 - Send back your solution in a ZIP-compressed file, ensuring it does NOT contain any binary file, such as .EXE ones.
@@ -11,7 +12,7 @@
 ## Instructions
 - Coding Challenge: [link](coding_challenge/readme.md)
 - SQL Challenge: [link](sql_challenge/readme.md)
-
+- REST Challenge: [link](rest_challenge/readme.md)
 ## [Optional] Boilerplate Prerequisites
 
 **Note: This part is only required if you decided to use the provided Boilerplate**
