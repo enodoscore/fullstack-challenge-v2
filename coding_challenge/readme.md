@@ -6,7 +6,7 @@
 
 ## Problem
 
-At **Enodo** we need to take steps to prevent credit fraud. Given a set of transactions, your task is to identify the records that are susceptible to be illicit.
+At **W&D** we need to take steps to prevent credit fraud. Given a set of transactions, your task is to identify the records that are susceptible to be illicit.
 A record is flagged as fraudulent if any of the following conditions apply:
 
 * Two records have the same email address and deal id, but different credit card, regardless of street address.
